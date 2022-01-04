@@ -65,7 +65,6 @@ min.css">
                             <div class="blog-slider__title">Summary</div>
                             <div class="blog-slider__text">My name is Le Cong Huynh. I am currently studying information technology transfer at the University of Greenwich. My goal is to become a full-stack developer. I like to learn new things to improve my understanding and bring the highest efficiency to my life and work. I don't have experience in real-world projects at the enterprise, but I have a basic knowledge of programming. Moreover, I also built some websites during my studies at the University of Greenwich. Communication skills, teamwork, and information-seeking skills are skills that I have been trained in since I was at university. They are also one of the skills I had to use a lot during my studies. Swimming or reading stories in a quiet place is my favorite thing to do at the end. They bring me peace of mind and peace of mind. </br>
                             It is me. Thanks for reading.</br>
-                            <a href="logo.jpg" download>day ne</a>
                             </div>        
                           </div>
                         </div>
