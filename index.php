@@ -19,7 +19,6 @@ min.css">
         <nav class="nav" id="nav-menu">
             <ion-icon name="close-outline" class="header_close" id="close-menu"></ion-icon>
             <ul class="nav_list">
-                <li class="nav_item"><img src="HappyNewyear.jpg" alt=""></li>
                 <li class="nav_item"><a href="#about" class="nav_link">About me</a></li>
                 <li class="nav_item"><a href="#skill" class="nav_link">Skills</a></li>
                 <li class="nav_item"><a href="#education" class="nav_link">Education</a></li>

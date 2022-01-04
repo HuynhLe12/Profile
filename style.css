@@ -260,6 +260,7 @@ header {
     .nav_list {
         display: flex;
         flex-direction: column;
+        margin-top: 50px;
     }
     .nav_item{
         margin: 1rem 0;
@@ -271,6 +272,7 @@ header {
         height: 100px;
         display: block;
         border-radius: 50px;
+        display: block;
     }
     .show {
         right: 0;
@@ -469,7 +471,7 @@ header {
    color: black;
    margin-bottom: 30px;
    line-height: 1.5em;
-   text-align: justify;
+   text-align: left;
 }
 
 
@@ -494,7 +496,7 @@ header {
              5px 5px 5px rgba(0,0,0,0.05),
               -5px -5px 5px rgba(255,255,255,0.5);
    border-radius: 15px;
-   margin: 30px;
+   margin: 70px 30px;
 }
 .container .card .box
 {
@@ -547,7 +549,7 @@ header {
    z-index: 1;
    transition: 0.5s;
 }
-.container .card:hover .box .content h3.
+.container .card:hover .box .content h3
 .container .card:hover .box .content p
 {
    color: #fff;
